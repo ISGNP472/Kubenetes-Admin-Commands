@@ -1,0 +1,22 @@
+##################### SECURITY  #####################
+
+TLS certificates 
+Primitive certificates
+how to create certificates
+Authorization mechanisim
+Role bases security access
+
+## Securitiy Primitives 
+## Accounts :    all user accounts manage by kube api server. 
+## manage user by kubeadm tool. 
+Auth mechanism - Basic
+Static Password File 
+Static Token files
+
+
+## TLS Introduction 
+
+        SYMMETRIC ENCRYPTION  | ASYMMETRIC ENCRYPTION
+
+        
+
