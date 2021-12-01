@@ -6,12 +6,16 @@ Resource Authorization in Kubernetes
 # kubeletes access the read information and handle requestes
 # ABAC - Attributes based authorization 
 # RBAC - Role based access control 
-
 ## Webhook ##
 # Open Policy Agent 
-
 # Always allow
 # Always deny 
 # Multiple mode configuration
     
 
+## Cluser roles and Role bindings 
+## Services Accounts 
+## Security COntext 
+##Network Policies 
+
+##Developing Network Policies
