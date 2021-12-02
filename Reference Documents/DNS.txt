@@ -1,0 +1,7 @@
+CoreDNS also supports other ways of configuring DNS entries through plugins. We will look at the plugin that it uses for Kubernetes in a later section.
+
+Read more about CoreDNS here:
+
+https://github.com/kubernetes/dns/blob/master/docs/specification.md
+
+https://coredns.io/plugins/kubernetes/
