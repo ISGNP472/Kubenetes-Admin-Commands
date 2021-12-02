@@ -1,21 +1,25 @@
-Resource Authorization in Kubernetes 
-
+# Resource Authorization in Kubernetes 
 
 # Node authorization 
 # Role authorization 
 # kubeletes access the read information and handle requestes
 # ABAC - Attributes based authorization 
 # RBAC - Role based access control 
-## Webhook ##
+# Webhook
 # Open Policy Agent 
 # Always allow
 # Always deny 
 # Multiple mode configuration
     
 
-## Cluser roles and Role bindings 
-## Services Accounts 
-## Security COntext 
-##Network Policies 
+# Cluser roles and Role bindings 
+# Services Accounts 
+# Security COntext 
+ Network Policies 
 
-##Developing Network Policies
+## Developing Network Policies 
+
+## Storage in Docker and Kubernetes
+ -- Docker will choose best storage  drivers based on OS compaitibilites. 
+-- Container Storage Interface -- CRI drivers. 
+--  CRI is universal standard. 

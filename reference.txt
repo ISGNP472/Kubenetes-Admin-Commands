@@ -1,0 +1,14 @@
+
+
+## VOLUMES
+
+1. Persistent Volumnes 
+2. Persistent VOlume claims 
+    -- | Binding
+    -- | Kind : PersistentVolumneClaim 
+         Kind : PersistentVolume 
+        kubectl get persistentvolumeclaim 
+
+Reference : 
+ https://kubernetes.io/docs/concepts/storage/persistent-volumes/#claims-as-volumes
+ 
